@@ -1,0 +1,21 @@
+inicio
+imprimir titulo "diagnostico"
+en nav
+crear vinculos a las paginas extras (inicio, ¿cómo identificarlo?, diagnostico y apoyo) 
+crear boton
+si boton = click 
+salir de la pagina 
+si no
+no hacer nada
+fin del si
+en article
+imprimir, texto relacionado con el diagnostico del autismo
+insertar video sobre el diagnostico en adultos
+si video = click
+reproducir video
+si no 
+dejar estatico
+fin del si
+en aside
+insertar vinculos para paginas de test caseros
+fin del proceso

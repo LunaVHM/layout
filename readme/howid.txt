@@ -1,0 +1,16 @@
+inicio
+imprimir titulo "¿cómo identificarlo?"
+en nav
+crear vinculos a las paginas extras (inicio, ¿cómo identificarlo?, diagnostico y apoyo) 
+crear boton
+si boton = click 
+salir de la pagina 
+si no
+no hacer nada
+fin del si
+en article
+imprimir, texto relacionado con la identificacion tipos y sintomas del autismo
+en aside
+insertar, texto relacionado con sintomas, tipos e identificacion del autismo
+insrtar imagen relacionada
+fin del proceso

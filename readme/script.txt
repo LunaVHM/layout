@@ -1,0 +1,9 @@
+inciar proceso
+definir la funcion "validateForm( )""
+definir la variable,"name"
+guardar en name el usuario
+definir la variable "password"
+guardra en password la contraseña
+si  (  name== "1" &&  password== "2" ) 
+iniciar sesion
+fin del proceso
